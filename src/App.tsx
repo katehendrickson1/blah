@@ -3,6 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  //const blah ='hi'; // blah is assigned a value but never used. the warning comes from the eslintrc.json
+
   return (
     <div className="App">
       <header className="App-header">
